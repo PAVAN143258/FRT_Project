@@ -2,7 +2,7 @@
 
 Azure Link
 
-https://jolly-mud-02abb3610.1.azurestaticapps.net/
+https://kind-wave-09faa9b10.1.azurestaticapps.net/
 
 
 # Demo of project
